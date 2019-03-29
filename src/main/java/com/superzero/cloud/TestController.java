@@ -17,7 +17,7 @@ public class TestController {
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String test()
 	{
-		 return "Hello, jenkins 1.0.1";
+		 return "Hello, jenkins 1.0.2";
 	}
 
 }
